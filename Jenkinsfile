@@ -10,7 +10,7 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git branch: 'main', url: 'https://github.com/veevism/Jenkins-dotnet-tutorial.git', credentialsId: 'github-access-token'
+                git branch: 'master', url: 'https://github.com/veevism/Jenkins-dotnet-tutorial.git', credentialsId: 'github-access-token'
             }
         }
 
