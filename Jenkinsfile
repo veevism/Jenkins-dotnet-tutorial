@@ -29,8 +29,9 @@ pipeline {
                 }
             }
         }
+        
 
-        stage('Copy Files to Deployment Folder') {
+        stage('Copy Files') {
             steps {
                 script {
                     bat '''

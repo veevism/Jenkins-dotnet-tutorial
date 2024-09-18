@@ -1,0 +1,7 @@
+D:\Playground\Jenkins-dotnet\Jenkins-dotnet-tutorial\Jenkins-dotnet-tutorial\bin\Debug\Jenkins-dotnet-tutorial.exe.config
+D:\Playground\Jenkins-dotnet\Jenkins-dotnet-tutorial\Jenkins-dotnet-tutorial\bin\Debug\Jenkins-dotnet-tutorial.exe
+D:\Playground\Jenkins-dotnet\Jenkins-dotnet-tutorial\Jenkins-dotnet-tutorial\bin\Debug\Jenkins-dotnet-tutorial.pdb
+D:\Playground\Jenkins-dotnet\Jenkins-dotnet-tutorial\Jenkins-dotnet-tutorial\obj\Debug\Jenkins-dotnet-tutorial.csproj.AssemblyReference.cache
+D:\Playground\Jenkins-dotnet\Jenkins-dotnet-tutorial\Jenkins-dotnet-tutorial\obj\Debug\Jenkins-dotnet-tutorial.csproj.CoreCompileInputs.cache
+D:\Playground\Jenkins-dotnet\Jenkins-dotnet-tutorial\Jenkins-dotnet-tutorial\obj\Debug\Jenkins-dotnet-tutorial.exe
+D:\Playground\Jenkins-dotnet\Jenkins-dotnet-tutorial\Jenkins-dotnet-tutorial\obj\Debug\Jenkins-dotnet-tutorial.pdb
